@@ -1,0 +1,11 @@
+step 1:
+pip install virtualenv
+
+step 2:
+virtualenv venvironment
+
+step 3:
+venvironment\Scripts\activate
+
+step 4:
+pip install -r requirements.txt

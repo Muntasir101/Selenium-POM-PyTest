@@ -1,0 +1,31 @@
+2024-01-12 23:14:47,641 - POM.tests.test_login_page - INFO - Starting the valid login test
+2024-01-12 23:14:47,641 - POM.tests.test_login_page - INFO - Valid test login page
+2024-01-12 23:14:59,625 - POM.tests.test_login_page - INFO - Enter Username: Admin
+2024-01-12 23:14:59,625 - POM.tests.test_login_page - INFO - Enter Password: admin123
+2024-01-12 23:14:59,625 - POM.tests.test_login_page - INFO - Test Case Execution Completed.
+2024-01-12 23:14:59,698 - POM.tests.test_login_page - INFO - -----------End-----------
+2024-01-12 23:15:54,930 - POM.tests.test_login_page - INFO - Starting the Invalid login test
+2024-01-12 23:16:16,201 - POM.tests.test_login_page - INFO - Enter Username: valid_user
+2024-01-12 23:16:16,201 - POM.tests.test_login_page - INFO - Enter Password: 1233ewfd
+2024-01-12 23:16:16,209 - POM.tests.test_login_page - INFO - Test Case Execution Completed.
+2024-01-12 23:16:16,268 - POM.tests.test_login_page - INFO - -----------End-----------
+2024-01-12 23:40:23,193 - POM.tests.test_login_page_ddt - INFO - Starting the login test
+2024-01-12 23:40:35,633 - POM.tests.test_login_page_ddt - INFO - Enter Username: Admin
+2024-01-12 23:40:35,633 - POM.tests.test_login_page_ddt - INFO - Enter Password: admin123
+2024-01-12 23:40:35,633 - POM.tests.test_login_page_ddt - INFO - Test Case Execution Completed.
+2024-01-12 23:40:35,633 - POM.tests.test_login_page_ddt - INFO - --------------------------------
+2024-01-12 23:41:13,102 - POM.tests.test_login_page_ddt - INFO - Starting the login test
+2024-01-12 23:41:27,096 - POM.tests.test_login_page_ddt - INFO - Enter Username: Admin2
+2024-01-12 23:41:27,096 - POM.tests.test_login_page_ddt - INFO - Enter Password: admin124
+2024-01-12 23:41:27,096 - POM.tests.test_login_page_ddt - INFO - Test Case Execution Completed.
+2024-01-12 23:41:27,096 - POM.tests.test_login_page_ddt - INFO - --------------------------------
+2024-01-12 23:44:26,982 - POM.tests.test_login_page_ddt - INFO - Starting the login test
+2024-01-12 23:44:37,446 - POM.tests.test_login_page_ddt - INFO - Enter Username: Admin
+2024-01-12 23:44:37,446 - POM.tests.test_login_page_ddt - INFO - Enter Password: admin123
+2024-01-12 23:44:37,447 - POM.tests.test_login_page_ddt - INFO - Test Case Execution Completed.
+2024-01-12 23:44:37,447 - POM.tests.test_login_page_ddt - INFO - --------------------------------
+2024-01-12 23:45:34,035 - POM.tests.test_login_page_ddt - INFO - Starting the login test
+2024-01-12 23:45:53,891 - POM.tests.test_login_page_ddt - INFO - Enter Username: Admin2
+2024-01-12 23:45:53,891 - POM.tests.test_login_page_ddt - INFO - Enter Password: admin124
+2024-01-12 23:45:53,891 - POM.tests.test_login_page_ddt - INFO - Test Case Execution Completed.
+2024-01-12 23:45:53,891 - POM.tests.test_login_page_ddt - INFO - --------------------------------
