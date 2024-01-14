@@ -31,6 +31,3 @@ pytest -v tests/test_login.py
 pytest .\tests\test_login_page_ddt.py --html-report=./Reports/Login_Report.html
 
 Test execution reports will be generated in the reports folder. Open the HTML report in a web browser to view detailed test results.
-
-# Contribution
-Feel free to contribute to the project by submitting issues or pull requests. Follow the guidelines outlined in the CONTRIBUTING.md file.
