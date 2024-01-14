@@ -10,8 +10,8 @@ This project is a Selenium-based automation framework implemented in Python, uti
 
 # Installation
 
-# Clone Reposiroty: 
-git clone https://github.com/your-username/selenium-pytest-pom.git
+# Clone Repository: 
+git clone https://github.com/muntasir101/selenium-pytest-pom.git
 
 # Navigate to the project directory:
 cd selenium-pytest-pom
